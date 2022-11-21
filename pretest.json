@@ -1,0 +1,93 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Which filter type is called a flat-flat filter?",
+      "answers": {
+        "a": "`Butterworth filter`",
+        "b": "`Cauer filter`",
+        "c": "`Band-reject filter`",
+        "d": "`Chebyshev filter`"
+      },
+      "explanations": {
+        "a": "You have chosen correct answer",
+        "b": "You have chosen wrong answer",
+        "c": "You have chosen wrong answer",
+        "d": "You have chosen wrong answer"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In which filter the output and input voltages are equal in amplitude for all frequencies?",
+      "answers": {
+        "a": "`All pass filter`",
+        "b": "`High pass filter`",
+        "c": "`Low pass filter`",
+        "d": "None"
+      },
+      "explanations": {
+        "a": "You have chosen correct answer",
+        "b": "You have chosen wrong answer",
+        "c": "You have chosen wrong answer",
+        "d": "You have chosen wrong answer"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Determine the order of the filter used,when the gain increases at the rate of 60dB/decade?",
+      "answers": {
+        "a": "Second order low pass",
+        "b": "Third order High pass",
+        "c": "First order low pass",
+        "d": "None"
+      },
+      "explanations": {
+        "a": "You have chosen wrong answer",
+        "b": "You have chosen correct answer",
+        "c": "You have chosen wrong answer",
+        "d": "You have chosen wrong answer"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Name the filter that has two stop bands?",
+      "answers": {
+        "a": "Band pass filter",
+        "b": "Third order High pass",
+        "c": "Band reject filter",
+        "d": "High pass filter"
+      },
+      "explanations": {
+        "a": "You have chosen correct answer",
+        "b": "You have chosen wrong answer",
+        "c": "You have chosen wrong answer",
+        "d": "You have chosen wrong answer"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "A bandstop filter is sometimes called a",
+      "answers": {
+        "a": "Snubber",
+        "b": "Phase shifter",
+        "c": "Time-Delay circuit",
+        "d": "Notch filter"
+      },
+      "explanations": {
+        "a": "You have chosen wrong answer",
+        "b": "You have chosen wrong answer",
+        "c": "You have chosen wrong answer",
+        "d": "You have chosen correct answer"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    }
+
+
+
+  ]
+}

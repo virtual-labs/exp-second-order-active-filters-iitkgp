@@ -1,0 +1,109 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Consider the following specifications and calculate the high cut-off frequency for the circuit given.<br/><p style=\"text-align:center\"><img src=\"images/P1.png\" style=\"width:450px;height:290px;\"></p>",
+      "answers": {
+        "a": "`95Hz",
+        "b": "`48Hz",
+        "c": "`14Hz",
+        "d": "`33Hz"
+      },
+      "explanations": {
+        "a": "You have chosen wrong answer",
+        "b": "You have chosen wrong answer",
+        "c": "You have chosen wrong answer",
+        "d": "You have chosen correct answer"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "How can a first order lowpass filter can be converted into second order low pass filter",
+      "answers": {
+        "a": "`By adding LC network`",
+        "b": "`By adding RC network`",
+        "c": "`By adding LC||RC network`",
+        "d": "`None`"
+      },
+      "explanations": {
+        "a": "You have chosen wrong answer",
+        "b": "You have chosen correct answer",
+        "c": "You have chosen wrong answer",
+        "d": "You have chosen wrong answer"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Find the gain and phase angle of the 2nd order low pass filter where, passband gain of the filter is 5.Frequency and high cut-off frequency of the filter are 3000Hz and 1KHz.",
+      "answers": {
+        "a": "Gain magnitude=-1.03dB,Angle=63.32(in degree)",
+        "b": "Gain magnitude=-5.19dB,Angle=71.56(in degree)",
+        "c": "Gain magnitude=-4.19dB,Angle=90(in degree)",
+        "d": "`None`"
+      },
+      "explanations": {
+        "a": "You have chosen wrong answer",
+        "b": "You have chosen correct answer",
+        "c": "You have chosen wrong answer",
+        "d": "You have chosen wrong answer"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The pass band voltage gain of a second order low pass butter worth filter is",
+      "answers": {
+        "a": "1.586",
+        "b": "8.32",
+        "c": "0.586",
+        "d": "0.707"
+      },
+      "explanations": {
+        "a": "You have chosen correct answer",
+        "b": "You have chosen wrong answer",
+        "c": "You have chosen wrong answer",
+        "d": "You have chosen wrong answer"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Frequency scaling is done using",
+      "answers": {
+        "a": "Standard Capacior",
+        "b": "Varying Capacitor",
+        "c": "Standard resistance",
+        "d": "None of these"
+      },
+      "explanations": {
+        "a": "You have chosen correct answer",
+        "b": "You have chosen wrong answer",
+        "c": "You have chosen wrong answer",
+        "d": "You have chosen wrong answer"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "A second order low pass filter is given an input frequency of 30KHz and produce an output having phase angle of 79 degree.Determine the pass band gain of the filter.",
+      "answers": {
+        "a": "11dB",
+        "b": "89.11dB",
+        "c": "46.78dB",
+        "d": "None of these"
+      },
+      "explanations": {
+        "a": "You have chosen wrong answer",
+        "b": "You have chosen wrong answer",
+        "c": "You have chosen correct answer",
+        "d": "You have chosen wrong answer"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    }
+
+
+  ]
+}
